@@ -38,38 +38,46 @@ I work closely with:
 
 I take ownership of the systems I build and maintain.
 
-🛠️ Stacks & Tools
+## 🛠️ Tech Stack & Tools
 
-Technologies are tools — fundamentals come first.
+### Tech Stack
+<span>
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot/MVC/Cloud/Batch" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mybatis/mybatis-original.svg" title="MyBatis/MyBatis-Plus" width="20" style="vertical-align:middle;"/>
 
-**Backend**  
-Languages: Java  
-Frameworks: Spring Boot, Spring MVC, Spring Cloud (Alibaba), Spring Batch  
-ORM: MyBatis, MyBatis-Plus  
+  <!-- Databases & Middleware -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" title="Kafka" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocketmq/rocketmq-original.svg" title="RocketMQ" width="20" style="vertical-align:middle;"/>
 
-**Databases & Middleware**  
-MySQL, MongoDB  
-Redis  
-Kafka, RocketMQ  
+  <!-- IoT & Networking -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netty/netty-original.svg" title="Netty" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mqtt/mqtt-original.svg" title="MQTT" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tcp/tcp-original.svg" title="TCP" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" title="WebSocket" width="20" style="vertical-align:middle;"/>
 
-**IoT & Networking**  
-Netty  
-MQTT / TCP  
-WebSocket  
+  <!-- Infrastructure -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="20" style="vertical-align:middle;"/>
 
-**Infrastructure**  
-Docker, Kubernetes  
-Linux  
-Jenkins  
+  <!-- Search & Others -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch / OpenSearch" width="20" style="vertical-align:middle;"/>
+</span>
 
-**Search & Others**  
-Elasticsearch / OpenSearch  
-
-**Tools**  
-IntelliJ IDEA  
-Git, Maven  
-Postman  
-Jira / Confluence
+### Tools
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="20" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira / Confluence" width="20" style="vertical-align:middle;"/>
+</span>
 
 📦 Professional Experience
 
