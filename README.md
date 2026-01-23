@@ -38,46 +38,36 @@ I work closely with:
 
 I take ownership of the systems I build and maintain.
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Tech Stack
 
-### Tech Stack
-<span>
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot/MVC/Cloud/Batch" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mybatis/mybatis-original.svg" title="MyBatis/MyBatis-Plus" width="20" style="vertical-align:middle;"/>
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005571?style=for-the-badge&logo=opensearch&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-FF6B35?style=for-the-badge&logo=google&logoColor=white)
+![NER](https://img.shields.io/badge/NER-1E3A8A?style=for-the-badge&logo=python&logoColor=white)
+![Embedding](https://img.shields.io/badge/Embedding-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Prompting](https://img.shields.io/badge/Prompting-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-  <!-- Databases & Middleware -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" title="Kafka" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocketmq/rocketmq-original.svg" title="RocketMQ" width="20" style="vertical-align:middle;"/>
+## 🛠️ Tools
 
-  <!-- IoT & Networking -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netty/netty-original.svg" title="Netty" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mqtt/mqtt-original.svg" title="MQTT" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tcp/tcp-original.svg" title="TCP" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" title="WebSocket" width="20" style="vertical-align:middle;"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Colima](https://img.shields.io/badge/Colima-FF6C37?style=for-the-badge&logo=docker&logoColor=white)
 
-  <!-- Infrastructure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="20" style="vertical-align:middle;"/>
-
-  <!-- Search & Others -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch / OpenSearch" width="20" style="vertical-align:middle;"/>
-</span>
-
-### Tools
-<span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="20" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira / Confluence" width="20" style="vertical-align:middle;"/>
-</span>
 
 📦 Professional Experience
 
