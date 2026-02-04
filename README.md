@@ -2,58 +2,36 @@
 
 👋 Welcome to my GitHub
 
-Hello, I’m Bin Lei, a Backend Engineer with 5+ years of experience specializing in Java-based backend systems, distributed services, and production-grade infrastructure.
-
-I have hands-on experience in IoT platforms, financial systems, and high-concurrency backend services, with a strong focus on system stability, scalability, and business reliability — qualities highly valued in Singapore engineering teams.
-
-💼 Professional Philosophy (Singapore-Oriented)
+Hello, I’m Lei Bin, a Backend Engineer with 5+ years of experience specializing in Java-based backend systems, distributed services, and production-grade infrastructure.
+I have hands-on experience in IoT platforms, Financial social,Cross-Border E-commerce Systems and high-concurrency backend services, 
+with a strong focus on system stability, maintainability, and business reliability
 
 🧩 Business-Driven Engineering
 
 I design backend systems with a business-first mindset, ensuring that technical decisions support scalability, operational efficiency, and long-term maintainability.
 
-I am experienced in systems that:
-
-- directly support revenue-related features
-- handle real-time data streams
-- operate under high concurrency and strict reliability requirements
-
 ⚙️ Reliability & Production Readiness
 
-I value production stability over technical novelty.
-
 My daily engineering focus includes:
-
 - fault tolerance and graceful degradation
 - logging, monitoring, and incident troubleshooting
-- backward compatibility and safe deployments
 
-🤝 Collaboration & Ownership
+🤝 Work Ethic
 
-I work closely with:
-
-- product managers to clarify requirements
-- frontend engineers to align API contracts
-- DevOps and operations teams during deployment and production support
-
-I take ownership of the systems I build and maintain.
+I value predictability. I build trust with coworkers through clear scheduling, structured design, and reliable development practices.
 
 ## 🚀 Tech Stack
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![SpringCloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005571?style=for-the-badge&logo=opensearch&logoColor=white)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-FF6B35?style=for-the-badge&logo=google&logoColor=white)
-![NER](https://img.shields.io/badge/NER-1E3A8A?style=for-the-badge&logo=python&logoColor=white)
-![Embedding](https://img.shields.io/badge/Embedding-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Prompting](https://img.shields.io/badge/Prompting-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Rabbitmq](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -61,6 +39,7 @@ I take ownership of the systems I build and maintain.
 ## 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
@@ -71,23 +50,21 @@ I take ownership of the systems I build and maintain.
 
 📦 Professional Experience
 
-✅ Backend Engineer — Smart Energy IoT Platform (2023 – Present)  
+✅ Backend Engineer - Cross-Border E-commerce Systems(Feb 2024 - Present)。
+- Used ElecsticSearch,Cache ,Mongodb  to improve data search,The delay time for order search has been reduced by four times.  
+- Reduced the message loss in rabbitmq, Optimize sending latency by decoupling the sender module. 
+- Process large volume of business data exports in batches and asynchronously
 
-- Designed and implemented backend services to collect, parse, and process IoT data from inverters, batteries, meters, and energy storage devices.  
+✅ Backend Engineer — Smart Energy IoT Platform (May 2023 – Dec 2023)  
+
+- implemented backend services to collect, parse, and process IoT data from inverters, batteries, meters, and energy storage devices.  
 - Built Netty-based communication services using MQTT/TCP to send commands and receive real-time device data.  
-- Implemented energy production, consumption, and revenue calculation logic based on peak / off-peak electricity pricing.  
-- Developed device management features including remote diagnostics, command dispatching, and firmware upgrade workflows.  
 - Used Kafka to distribute processed data to downstream business modules in real time.  
 
-Impact: Enabled real-time monitoring and visualization of energy generation and storage performance. Improved data reliability and consistency across multiple energy-related subsystems.
+✅ Backend Engineer — Financial Social (Jul 2020 – Apr 2023)  
 
-✅ Backend Engineer — Financial Social & Trading Systems (2021 – 2023)  
-...
-
-🌱 Currently Improving  
-- Backend system design & architecture  
-- Cloud-native backend practices (AWS / Kubernetes)  
-- High-reliability distributed systems  
-- Preparing for Singapore-based backend engineering roles  
+- Used netty to subcribe MT4 financial data to improve websocket pushing data congestion problem,Effectively enhancing the stability of the system
+- Asynchronously store the financial data and run statical caculation   
+ 
 
 Thanks for visiting my profile.
